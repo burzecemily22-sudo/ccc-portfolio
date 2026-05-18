@@ -11,5 +11,7 @@ FOr the second iteratoin I make the control pannel with buttons that didnt yet w
 ![Image 2 ](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20082231.png?raw=true)
 https://editor.p5js.org/burzecemily22-sudo/sketches/bwJ-oenID
 
+https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20082634.png?raw=true
+
 
 
