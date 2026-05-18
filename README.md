@@ -9,13 +9,15 @@ For the first itteration I just started making the differant types of cake flavo
 https://editor.p5js.org/burzecemily22-sudo/sketches/crXc_B5RJ
 
 Second itteration 
-FOr the second iteratoin I make the control pannel with buttons that didnt yet work and then I made a littile table of the cakes to sit on 
+FOr the second iteratoin I make the control pannel with buttons that didnt yet work and then I made a littile table of the cakes to sit on.
+
 ![Image 2 ](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20082231.png?raw=true)
 
 https://editor.p5js.org/burzecemily22-sudo/sketches/bwJ-oenID
 
 Third itteration 
 For my final control pannel I made the buttons work making sure that each of them would control a differant cake that shows on screen. 
+
 ![Images 3](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20082634.png?raw=true)
 
 https://editor.p5js.org/burzecemily22-sudo/sketches/M9XTF8cW7
