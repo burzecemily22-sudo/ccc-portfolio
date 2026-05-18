@@ -30,12 +30,14 @@ https://editor.p5js.org/burzecemily22-sudo/sketches/WJSoEaBjK
 Second itteration
 
 In my second itteraiton I started playing around with how I can make the scene feel more alive so I decided for each condition to have somthing moving so below there is an image of a tree and when run the leaves slowly fall down indication its autumn.
-![Image](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20083815.png?raw=true}
+![Image](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20083815.png?raw=true)
 https://editor.p5js.org/burzecemily22-sudo/sketches/grXHGTXlv
 
 Third itteration 
 
-
+For my last itteration I finished making all the weather conditions and the image below is showing the summer condition and I wasnt sure how i'd add somthing moving to summer so I decided to add heatlines coming off the house indicating that its very hot
+![Image](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20084234.png?raw=true)
+https://editor.p5js.org/burzecemily22-sudo/sketches/19Dqgkfs9
 
 
 
