@@ -21,7 +21,14 @@ https://editor.p5js.org/burzecemily22-sudo/sketches/M9XTF8cW7
 
 ----Experiment 2----
 
+First iteration 
+For this experiment I chose to do a landscape generator, I started off with making the simple background that i was going to have for each weather condition which was this house. Then I went on to make the differant seasons/ weather conditions
+![Image](https://github.com/burzecemily22-sudo/ccc-portfolio/blob/main/Screenshot%202026-05-18%20083359.png?raw=true)
 https://editor.p5js.org/burzecemily22-sudo/sketches/WJSoEaBjK
+
+Second itteration
+
+
 
 
 
